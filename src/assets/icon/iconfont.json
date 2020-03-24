@@ -1,0 +1,156 @@
+{
+  "id": "1421212",
+  "name": "element ui",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2442459",
+      "name": "货币",
+      "font_class": "huobi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "2501522",
+      "name": "异常",
+      "font_class": "yichang",
+      "unicode": "e801",
+      "unicode_decimal": 59393
+    },
+    {
+      "icon_id": "2633209",
+      "name": "车辆",
+      "font_class": "cheliang-copy",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "2665543",
+      "name": "运价",
+      "font_class": "yunjia",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "3556485",
+      "name": "数据",
+      "font_class": "shuju",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "3741672",
+      "name": "结算",
+      "font_class": "CombinedShape",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "4542626",
+      "name": "客户",
+      "font_class": "kehu",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "4967737",
+      "name": "报表",
+      "font_class": "line-chart",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "5025518",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "5383345",
+      "name": "B004-客户",
+      "font_class": "APPicon-kehu",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "6509219",
+      "name": "订单中心",
+      "font_class": "dingdanzhongxin",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "6723190",
+      "name": "运营看板",
+      "font_class": "yunyingkanban",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "7310178",
+      "name": "位置",
+      "font_class": "weizhi1",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "7440846",
+      "name": "运价",
+      "font_class": "yunjia1",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "7615913",
+      "name": "订单",
+      "font_class": "icon-order",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "8619895",
+      "name": "实景酷后台-客户",
+      "font_class": "kehu1",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "8925514",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "9371687",
+      "name": "首页-选中",
+      "font_class": "home",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9582051",
+      "name": "默认物流图",
+      "font_class": "wuliu",
+      "unicode": "e707",
+      "unicode_decimal": 59143
+    },
+    {
+      "icon_id": "9609638",
+      "name": "客户",
+      "font_class": "kehu2",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9850885",
+      "name": "消 息",
+      "font_class": "xiaoxi",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
